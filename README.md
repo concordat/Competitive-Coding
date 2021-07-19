@@ -1,2 +1,2 @@
-# Algorithms
-Different Algorithm Code
+# Competitive Coding
+From codeforces and other sites
